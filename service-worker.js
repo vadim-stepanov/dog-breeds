@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/dog-breeds/precache-manifest.a8dd62cd48568142720bd99927078334.js"
+  "/dog-breeds/precache-manifest.813fdcf110196e07a45d90ba48136f6e.js"
 );
 
 workbox.clientsClaim();

@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/dog-breeds/static/media/dogtime.29ddd819.png"
   },
   {
-    "revision": "90099f46820ae1ef0155",
-    "url": "/dog-breeds/static/js/main.90099f46.chunk.js"
+    "revision": "09e486940e35df605011",
+    "url": "/dog-breeds/static/js/main.09e48694.chunk.js"
   },
   {
     "revision": "816ece26351e03b48ac8300a80a4f3d0",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/dog-breeds/static/css/1.44d57ce4.chunk.css"
   },
   {
-    "revision": "f1aea3bbd0aa345d87d93f565dc95216",
+    "revision": "9d1c999e9996770671dc4b25ddf47f58",
     "url": "/dog-breeds/index.html"
   }
 ];
